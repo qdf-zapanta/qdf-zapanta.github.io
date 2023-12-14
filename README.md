@@ -1,3 +1,10 @@
+<style>
+    body {
+        background-color: black;
+        color: white;
+    }
+</style>
+
 # qdf-zapanta.github.io
 
 ### 👋 Hello, GitHub!
@@ -38,6 +45,5 @@ I'm Dave Francis Zapanta, a passionate CPE student focusing on system administra
 - 🛠️ Mastered Ansible for efficient automation and configuration management.
 - 🐳 Explored the world of containerization and Docker for scalable deployments.
 - ☁️ Gained hands-on experience with OpenStack for cloud infrastructure management.
-
 
 Happy coding! 🚀✨
